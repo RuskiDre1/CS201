@@ -1,0 +1,3 @@
+Example showing setBits and showBits being created using make command.
+make clean
+make

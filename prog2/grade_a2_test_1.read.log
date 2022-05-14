@@ -1,0 +1,5 @@
+Example showing setBits and showBits being created using make command.
+make clean
+rm -f setBits showBits *.o ~* a.out
+make
+gcc -Wall -Og -g setBits.c  -o setBits

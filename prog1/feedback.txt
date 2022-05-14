@@ -1,0 +1,16 @@
+
+Test 0: Timing calculation correct.  Passed!
+
+Test 1: Example run showing all correct input.  Passed!
+
+Test 2: Example run showing misspellings that do not partially match the correct word.  Passed!
+
+Test 3: Example run showing a misspelling where only the first part of the word is typed. For example, entering "brow" when "brown" is displayed.  Passed!
+
+Test 4: Example run showing a misspelling where the correct word is typed but additional characters are entered. For example, "lazyman" when "lazy" is typed.  Passed!
+
+Test 5: Example run showing that comparisons are correctly performed. The only test here is to show that when "the" is displayed that "The" does not match and when "The" is displayed that "the" does not match.  Passed!
+
+Test 6: Example run showing that extraneous input is flushed per the provided hint. For example, if the user enters "lazy dog", then only "lazy" should be used for comparison and " dog" is thrown away.  Passed!
+
+Score for automatic tests: [27/27]

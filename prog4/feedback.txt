@@ -1,0 +1,22 @@
+
+Test 1: Invalid number of arguments should fail.  Passed!
+
+Test 2: Exit works correctly.  Passed!
+
+Test 3: Addition works correctly.  Passed!
+
+Test 4: Subtraction works correctly.  Passed!
+
+Test 5: Multiplication works correctly.  Passed!
+
+Test 6: Division works correctly.  Passed!
+
+Test 7: Modulo works correctly.  Passed!
+
+Test 8: Reverse works correctly.  Passed!
+
+Test 9: Sequence of operations works correctly.  Passed!
+
+Test 10: Reverse works correctly with non-numeric arguments.  Passed!
+
+Score for automatic tests: [65/65]

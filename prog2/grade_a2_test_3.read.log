@@ -1,0 +1,12 @@
+At least 2 example runs for setBits showing correct output on valid input.
+./setBits 10 3 12 12 8 13 6 10 4 15 12 12 14
+1111 0101 0101 1000 
+
+Test 3: At least 2 example runs for setBits showing correct output on valid input.
+
+  Error: For good input, setBits failed (had a non-zero exit status).
+
+  Command: ./setBits 10 3 12 12 8 13 6 10 4 15 12 12 14
+
+  Test failed -6
+

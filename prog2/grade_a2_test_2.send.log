@@ -1,0 +1,4 @@
+Example run for setBits showing invalid input properly handled.
+./setBits 
+./setBits 1791
+./setBits -304
